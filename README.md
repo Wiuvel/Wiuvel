@@ -1,4 +1,4 @@
-### hey! i'm Rayan 👋🏻
+### hey! i'm Artem 👋🏻
 
 full-stack dev, building real-time web apps and maintaining open-source packages
 
